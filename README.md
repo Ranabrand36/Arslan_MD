@@ -1,6 +1,6 @@
-🤖 ***Arslan-MD*** - MULTIPLE POWERFUL WHATSAPP BOT
+🤖 ***Legend-MD*** - MULTIPLE LEGENDARY WHATSAPP BOT
 
-> ⚔️ Developed by ArslanMD Official | 500+ Features | Super Aggressive Bot
+> ⚔️ Developed by Legend Hassan | 500+ Features | Super Aggressive Bot
 </div>
 
 <p align="center">
