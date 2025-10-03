@@ -36,25 +36,21 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/Ranabrand36/Legend-MD/fork"><img src="https://img.shields.io/github/forks/Arslan-MD/Arslan_MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork Arslan-MD" /></a>
+<a href="https://github.com/Ranabrand36/Legend-MD/fork"><img src="https://img.shields.io/github/forks/Ranabrand36/Legend-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork Legend-MD" /></a>
 
 ---
 
 ### 🔐 Step 2: Get Your Session ID
 
-Authenticate using **one** of the methods below to generate your `Session ID`.
+Authenticate using the methods below to generate your `Session ID`.
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
 </p>
 
-> ♥️ Pairing Code Server-1
+> Legend-MD Pairing Code Server 😄
 
 [![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://arslan-md-web.onrender.com/)
-
-> 🇵🇰 Pairing Code Server-2
-
-[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=blue)](https://arslan-xmd-pair-site.onrender.com/)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
