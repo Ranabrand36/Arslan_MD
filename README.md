@@ -50,7 +50,7 @@ Authenticate using the methods below to generate your `Session ID`.
 
 > Legend-MD Pairing Code Server 😄
 
-[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://arslan-md-web.onrender.com/)
+[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://legend-session-generator.onrender.com/)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
