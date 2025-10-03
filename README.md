@@ -36,7 +36,7 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/Ranabrand36/Legend-MD/fork"><img src="https://img.shields.io/github/forks/Ranabrand36/Legend-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork Legend-MD" /></a>
+<a href="https://github.com/Ranabrand36/Legend-MD/fork"><img src="https://img.shields.io/github/forks/Ranabrand36/Legend-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Legend-MD" alt="Fork Legend-MD" /></a>
 
 ---
 
@@ -57,7 +57,7 @@ Authenticate using the methods below to generate your `Session ID`.
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/Arslan-MD/Arslan_MD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/Ranabrand36/Legend-MD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
